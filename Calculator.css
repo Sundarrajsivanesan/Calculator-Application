@@ -1,0 +1,12 @@
+button{
+    margin: 20px;
+    background-color: blueviolet;
+    border-color: blueviolet;
+    height: 30px;
+    width: 100px;
+    text-align: center;
+}
+
+h1{
+    color: blueviolet;
+}
